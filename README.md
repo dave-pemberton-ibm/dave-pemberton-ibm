@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dave Pemberton from IBM (@dave-pemberton-ibm)
+👋 Hi, I’m Dave Pemberton from IBM (@dave-pemberton-ibm)
 
 <!---
 dave-pemberton-ibm/dave-pemberton-ibm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
